@@ -1,0 +1,34 @@
+
+Some queries for quick reference:
+
+
+>>> Firm.objects.filter(scope1__source__name='CDP').count()
+76993
+>>> Firm.objects.filter(scope3__source__name='CDP').count()
+0
+>>> Firm.objects.filter(scope2__source__name='CDP').count()
+2125
+
+
+
+
+Priority tasks:
+-align tsx data with models,
+-start front end work using css/tailwind
+
+
+superuser
+user:willh1
+pass:wormfish113
+
+
+
+friday notes:
+
+-frontend mostly set up, serving but not compiling css files
+-on new computer , set up a local clone of app - wont have to deal with this static file stuff
+will be worthwhile while learning react and getting comfortable with the new
+structure of how css is served and updated, should make the PA case obvious
+
+With that in mind, just follow same docs & that demo videow
+

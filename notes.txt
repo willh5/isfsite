@@ -1,0 +1,20 @@
+need to move super quick over next few days
+eaiset way to get people to see your vision is to just build it - put placeholders where necessary
+that will have a lot more impact than any flowc chart or diagram.
+
+task list:
+    -sort firms
+    -move to live
+    -graphs
+    -bulk download
+    -portfolios
+    -firm panel, sector data including placeholder for our nature risk work
+    -distinct page for tsx that auto filters, and displays the new data - set it up so for remaining firms you'll enter it into db directly
+    -distinct page with placeholder for our work on ecosystem service risk
+    quick:
+        -space/card around Sign out
+        -Sign out instead of log out etc.
+        -Sign in also other side
+        
+        -large container that has centered links at bottom ISF site: | about | contact us     
+
